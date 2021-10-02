@@ -16,18 +16,6 @@ And then to run the tests:
 npm test
 ```
 
-### Code Style
-
-The code base follows the [Google JavaScript style guide](https://google.github.io/styleguide/jsguide.html). 
-
-[ESLint rules](./.eslintrc.json) have been configured for following the style guide.
-
-You can check if your code follows the style guidelines by running:
-
-```
-npx eslint .
-```
-
 
 
 
