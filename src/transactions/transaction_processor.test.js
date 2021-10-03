@@ -27,3 +27,7 @@ test('check multiple transactions alphabetical ordering correct', () => {
 test('check multiple transactions numerical order correct', () => {
     expect(processTransactions(['hoody', 'jeans', 'jeans'])).toEqual(['jeans 2', 'hoody 1']);
 });
+
+test('notebook example from the readme', () => {
+    expect(processTransactions(['notebook', 'notebook', 'mouse', 'keyboard', 'mouse'])).toEqual(['mouse 2', 'notebook 2', 'keyboard 1']);
+});
