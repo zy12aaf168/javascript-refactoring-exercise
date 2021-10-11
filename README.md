@@ -1,5 +1,4 @@
-# javascript-refactoring-exercise
-
+# Modern JavaScript - Refactoring
 
 Some exercises to practice refactoring 'old JavaScript' into more modern JavaScript.
 
