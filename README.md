@@ -12,7 +12,7 @@ Given an input set of data such as this:
 ['notebook', 'notebook', 'mouse', 'keyboard', 'mouse']
 ```
 
-It should produce a summary of what things have been purchased and how many of each item. The results should be sorted by the number of transactions then alphabetically.
+It should produce a summary of what things have been purchased and how many of each item. The results should be sorted by the number of transactions, then alphabetically.
 
 ```
 ['mouse 2', 'notebook 2', 'keyboard 1'].
