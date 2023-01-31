@@ -34,18 +34,8 @@ The unit tests are currently passing. They should continue to pass after you hav
 
 ✅  Choose one team member to fork and clone the repository and whilst still working as a group, work through and refactor the code. Remembering to commit little and often as you make changes to the code base.
 
-✅  Later on in the week you'll present back to your fellow cohort members
-
-✅  Prepare to share your creation! We will be hosting a session where you can demo your changes and why you made them back to the rest of the group. Please nominate a speaker for your team, or if you wish to, we encourage you give everyone in your team a chance to speak. 🗣
-
 ------------------
 
 ### 💥 Submission Process
 
 ✅  Send us a link to your forked GitHub repository (Note: All group members can send us the same link)
-
-✅  Present your updates back to us during the sharing session
-
-
-
-
