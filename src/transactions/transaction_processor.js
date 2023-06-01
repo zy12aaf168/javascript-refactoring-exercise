@@ -21,4 +21,6 @@ function sortByAmountThenName(txCount) {
     return sortedEntries.map(([key, value]) => `${key} ${value}`);
 }
 
+/* We used an arrow function here to define validate transactions to make it more concise.
+*/
 const validateTransactions = (transActions) => transActions !== undefined;
